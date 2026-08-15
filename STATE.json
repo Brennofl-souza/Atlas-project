@@ -1,1 +1,20 @@
-# STATE
+{
+  "atlas": {
+    "versao": "3.0.0",
+    "status": "ATIVO",
+    "ultimo_id": "ATL-000001",
+    "data_ultima_atualizacao": "2026-08-15"
+  },
+  "eventos": [
+   
+  ],
+  "resumo": {
+    "entradas": 0.0,
+    "saidas": 10.0,
+    "transferencias": 0.0,
+    "creditos": 0.0,
+    "ajustes": 0.0,
+    "saldo_atual": null,
+    "observacao_saldo": "Saldo atual não foi calculado porque a base enviada não continha saldo inicial."
+  }
+}
